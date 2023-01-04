@@ -1,0 +1,28 @@
+conda list - anaconda 설치시 같이 설치된 리스트
+beautifulsoup4  웹 크롤링 파싱
+matplotlib  데이터 시각화 라이브러리
+numpy 데이터 다루기 좋은 라이브러리
+pandas 데이터 다루기 위한 라이브러리
+requests = HTTP 통신
+scikit-learn ML
+seaborn 데이터 시각화
+
+python 은 interpreter 언어임
+
+프로그램 실행속도는 느리나 컴파일 시간이 추가되지 않기 때문에 당장 실행하는데는 빠름.
+
+컴파일은 컴파일 과정중에 .exe 파일을(링커와 로더도 존재하긴 하지만 생략함) 만들어 내고, 이를 실행하는 방식이기에 코드 여러번 사용할때는 유용하지 않나 싶음. 
+
+기본 인코딩 UTF-8 
+
+한줄에 여러 코드 쓰고 싶을떄 ; 사용함.
+
+
+jupyter lab 단축키
+A키 셀추가
+DD 셀삭제
+ctrl + 위아래 화살표 로 선택 가능하고,
+ctrl M 으로 cell merge가능
+ctrl / 선택한 코드 주석처리
+ctrl + shift + - = 현재 커서 기준 셀 나누기
+주석은 #임.
